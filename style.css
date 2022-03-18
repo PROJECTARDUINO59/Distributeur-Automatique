@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');    
+    body {
+        font-family: 'Montserrat', sans-serif;
+        background: #e6e6e6;
+        padding: 0;
+        margin: 0;
+    }
+    
+    li {
+        list-style-type: none;
+
+    }
+
+    h2{
+        color: rgb(0, 0, 0);
+        text-transform: none;
+        text-align: center;
+        padding-top : 10px;
+        font-size: 2.5em;
+    }
+    
+    a {
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-size: 2em;
+    }
+    
+    .nav1{
+    display: inline-block;
+    padding:8px;
+    background-color:rgb(7, 82, 82);
+    margin-left:620px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    
+    }
+    .nav2{
+        display: inline-block;
+        padding:8px;
+        background-color: rgb(7, 82, 82);
+        margin-left:10px;
+        margin-bottom: 20px;
+        border-radius: 20px;
+      
+    
+        }
+    .nav3{
+    display: inline-block;
+    padding:8px;
+    background-color:rgb(7, 82, 82);
+    margin-left:10px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+h1 {
+    text-transform: none;
+    text-align: center;
+    color: rgb(224, 224, 224);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+}
+
+.Titre{
+    height: 50px;
+    width: 50%;
+    margin: 10px auto;
+    background-color: darkcyan;
+}
+ 
+    
+    #Bloc{
+        background-color: darkcyan;
+        padding: 10px 0px 100px;
+    }
+    
+    #textIntro {
+        padding: 0px 15%;
+
+    }
+    h3{
+        text-align: center;
+        color: rgb(7, 82, 82);
+        font-size: 2cm;
+ 
+        margin-bottom: 30px;
+    }
+
+    #image2{
+        text-align: center;
+    }
+
+    .logo2{
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+        height: 300px;
+    }
+    input.checkbox{
+        width: 50px;
+        height: 50px;
+    }
+
+    h4{
+        text-align: center;
+    }
+
+    p{
+        font-size: 2em;
+        color:#e6e6e6;
+        text-align: left;
+    }
+    .p1{
+        font-size: 2em;
+        color:#e6e6e6;
+        text-align: center;
+
+    }
+    .img1{
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 500px;
+        height: 500px ;
+        border-radius: 10px;
+        border: 4px solid rgb(0, 0, 0)
+    }
+    .img2{
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 480px;
+        height: 350px ;
+        border-radius: 10px;
+        border: 4px solid rgb(0, 0, 0)
+        
+
+    }
+    .barre1{
+        margin:10px;
+    }
+    mark{
+        background-color: darkcyan;
+        border-radius: 10px;
+    }
